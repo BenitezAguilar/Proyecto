@@ -1,7 +1,7 @@
 # Sistema de Gestión de Hoteles Turísticos
 
 ## Descripción:
-Un sistema en el cual se esté almacenando información específica diariamente, y así poder llevar un control sobre cada hotel turístico en la zona. Así, se podrá conocer las actividades realizadas para cada uno cada día.
+Un sistema en el cual se esté almacenando información específica diariamente, y así poder llevar un control sobre cada hotel turístico en la zona y se podrá conocer las actividades realizadas para cada uno cada día.
 ## Motivación:
 En Isla de Cedros, cada verano se llena de muchos turistas que van a disfrutar de la pesca. Por lo mismo, existen algunos hoteles en los cuáles llegan a descansar, y sería bueno que cada hotel lleve un registro sobre sus actividades diarias.
 ## Tech Stack:
