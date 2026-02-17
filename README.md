@@ -1,4 +1,4 @@
-# Sistema de Inventarios de un Taller Mecánico
+# Sistema de Gestión de Hoteles Turísticos
 
 ## Descripción:
 Un sistema que automatize la organización y clasificación de los componentes y materiales utilizados en un taller mecánico, utilizando Bases de Datos.
